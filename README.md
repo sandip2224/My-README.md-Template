@@ -1,6 +1,6 @@
 <h1 align="center">✨TITLE OF PROJECT✨</h1>
 <p align="center">
-  
+  <img src="https://img.shields.io/github/license/sandip2224/My-README.md-Template"/>
   <img src="https://img.shields.io/github/forks/sandip2224/Static_Price_Tracker_Bot"/>
   <img src="https://img.shields.io/github/stars/sandip2224/Static_Price_Tracker_Bot"/>
   <img src="https://img.shields.io/github/issues-pr-closed/sandip2224/Static_Price_Tracker_Bot"/>
