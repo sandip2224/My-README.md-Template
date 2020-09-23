@@ -20,7 +20,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+<h2 align="center">Table of Contents</h2>
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
@@ -29,7 +29,7 @@
 * [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<h2 align="center">About the Project</h2>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id eleifend lacus, sed blandit lorem. Nullam aliquet dictum elementum. Nunc egestas tristique accumsan. Duis eleifend dignissim faucibus. Nam eget leo ut urna fringilla finibus. Suspendisse massa tellus, consectetur ac ornare in, tempus sed ante. Nullam et libero sodales, semper eros a, ullamcorper magna. Etiam eget elementum tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 
@@ -40,13 +40,14 @@ Here's why it's so awesome:
 
 <strong>You may also suggest changes by forking this repo and creating a pull request or opening an issue.</strong>
 
-### Built With
+<h2 align="center">Built With</h2>
+
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Python](https://getbootstrap.com)
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 <!-- GETTING STARTED -->
-## Getting Started
+<h2 align="center">Getting Started</h2>
 
 To get a local copy up and running follow these simple example steps.
 
@@ -58,7 +59,7 @@ git clone https://github.com/sandipan_2224/REPOSITORY_NAME.git
 ```
 
 <!-- CONTRIBUTING -->
-## Contributing
+<h2 align="center">Contributing</h2>
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -67,7 +68,6 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
