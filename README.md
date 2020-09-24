@@ -22,11 +22,11 @@
 <!-- TABLE OF CONTENTS -->
 <h2 align="center">Table of Contents</h2>
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-* [Contributing](#contributing)
-* [Acknowledgements](#acknowledgements)
+<p>1. <a href="#about-the-project">About the Project</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;a. <a href="#built-with">Built With</a></p>
+<p>2. <a href="#getting-started">Getting Started</a></p>
+<p>3. <a href="#contributing">Contributing</a></p>
+<p>4. <a href="#acknowledgements">Acknowledgements</a></p>
 
 <!-- ABOUT THE PROJECT -->
 <h2 align="center">About the Project</h2>
