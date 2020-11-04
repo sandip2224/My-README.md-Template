@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/github/issues-pr-closed/sandip2224/Static_Price_Tracker_Bot"/>
   <img src="https://img.shields.io/github/repo-size/sandip2224/Static_Price_Tracker_Bot"/>
 </p>
+
 <!-- PROJECT LOGO -->
   <p align="center">
     <br />
@@ -22,11 +23,11 @@
 <!-- TABLE OF CONTENTS -->
 <h2 align="center">Table of Contents</h2>
 
-<p>1. <a href="#about-the-project">About the Project</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;a. <a href="#built-with">Built With</a></p>
-<p>2. <a href="#getting-started">Getting Started</a></p>
-<p>3. <a href="#contributing">Contributing</a></p>
-<p>4. <a href="#acknowledgements">Acknowledgements</a></p>
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
+
 
 <!-- ABOUT THE PROJECT -->
 <h2 align="center">About the Project</h2>
@@ -38,11 +39,12 @@ Here's why it's so awesome:
 * Cras aliquam magna et velit pretium rutrum. Donec rhoncus mauris risus.
 * Etiam feugiat nisl facilisis eros consectetur, in vulputate sapien tempor. 
 
-<strong>You may also suggest changes by forking this repo and creating a pull request or opening an issue.</strong>
+**You may also suggest changes by forking this repo and creating a pull request or opening an issue.**
 
 <h2 align="center">Built With</h2>
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.  
+
 * [Python](https://getbootstrap.com)
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
@@ -51,11 +53,17 @@ This section should list any major frameworks that you built your project using.
 
 To get a local copy up and running follow these simple example steps.
 
-1. Clone this repository.
-2. Add required steps to get the project up and running.
+1. Fork and clone this repository using  
 
-```sh
-git clone https://github.com/sandipan_2224/REPOSITORY_NAME.git
+```
+  git clone https://github.com/sandipan_2224/REPOSITORY_NAME.git
+  cd REPOSITORY_NAME  
+```  
+
+2. Add required steps to get the project up and running.  
+
+```
+  Code snippets based on project description
 ```
 
 <!-- CONTRIBUTING -->
