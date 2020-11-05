@@ -82,3 +82,5 @@ Contributions are what make the open source community such an amazing place to b
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
+
+<h3 align="right">Built and designed by <em>YOUR NAME</em></h3>
