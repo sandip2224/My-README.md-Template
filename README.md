@@ -1,4 +1,8 @@
 <h1 align="center">✨TITLE OF PROJECT✨</h1>
+
+<p align="center">
+   <img src="img/logo.png" alt="Logo"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/github/license/sandip2224/My-README.md-Template"/>
   <img src="https://img.shields.io/github/forks/sandip2224/My-README.md-Template"/>
@@ -25,7 +29,13 @@
 
 - [About the Project](#about-the-project)
   - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
 - [Contributing](#contributing)
+- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
 
