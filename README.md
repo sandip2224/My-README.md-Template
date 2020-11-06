@@ -109,7 +109,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- LICENSE -->  
 
-<h2 align="center">Usage</h2>
+<h2 align="center">License</h2>
 
 Distributed under the MIT License. See `LICENSE` for more information.  
 
