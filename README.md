@@ -127,10 +127,10 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- CONTACT --> 
 
-<h2 align="center>Contact</h2> 
+<h2 align="center>Contact</h2>
 
-- **Name**: [Sandipan Das](https://linkeidn.com/in/sandipan0164)  
-- **Email ID**: [sandipan2224@gmail.com](sandipan2224@gmail.com)  
+- **Name:** [Sandipan Das](https://linkeidn.com/in/sandipan0164)  
+- **Email ID:** [sandipan2224@gmail.com](sandipan2224@gmail.com)  
 
 
 <!-- ACKNOWLEDGEMENTS -->
