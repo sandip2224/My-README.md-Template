@@ -1,7 +1,7 @@
 <h1 align="center">✨TITLE OF PROJECT✨</h1>
 
 <p align="center">
-   <img src="img/logo.png" alt="Logo"/>
+   <img src="img/final_logo.png" alt="Logo"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/license/sandip2224/My-README.md-Template"/>
