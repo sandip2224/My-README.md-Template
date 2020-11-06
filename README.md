@@ -127,16 +127,18 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- CONTACT --> 
 
-<h2 align="center>Contact</h2>
+<h2 align="center">Contact</h2>
 
 - **Name:** [Sandipan Das](https://linkeidn.com/in/sandipan0164)  
 - **Email ID:** [sandipan2224@gmail.com](sandipan2224@gmail.com)  
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+
+<h2 align="center">Acknowledgements</h2>
+
 * [GitHub Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 
-<h3 align="right">Built and designed by <em>YOUR NAME</em></h3>
+<h3 align="right">Built and designed by <em>Your_Name</em></h3>
