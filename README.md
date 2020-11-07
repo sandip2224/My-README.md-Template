@@ -64,12 +64,15 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 <h2 align="center">Built With</h2>
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.  
+This section should list any major frameworks that you built your project using either as `text` or as `badges`. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.  
 
-* [Python](https://getbootstrap.com)  
-* [Node.js](https://nodejs.org/en/)  
-* [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)  
-
+<p align="center">
+   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+</p>
 
 <!-- GETTING STARTED -->
 
