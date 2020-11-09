@@ -142,7 +142,7 @@ Contributions are what make the open source community such an amazing place to b
 
 <h2 align="center">Contact</h2>
 
-- **hey guys, I'm Sandipan. Find out more about me** [ here](https://linkedin.com/in/sandipan0164)  
+- **Hey guys, I'm Sandipan. Find out more about me** [ here](https://linkedin.com/in/sandipan0164)  
 - **Reach out to me at** [ sandipan2224@gmail.com](sandipan2224@gmail.com)  
 
 
