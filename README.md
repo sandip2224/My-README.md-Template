@@ -1,10 +1,17 @@
-<h1 align="center">✨TITLE OF PROJECT✨</h1>
+<h2 align="center">My-README.md-Template✅</h2>
+
+<p align="center">
+   <img src="img/doc_logo.png" alt="Logo" height=100 weight=100/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/github/license/sandip2224/My-README.md-Template"/>
-  <img src="https://img.shields.io/github/forks/sandip2224/Static_Price_Tracker_Bot"/>
-  <img src="https://img.shields.io/github/stars/sandip2224/Static_Price_Tracker_Bot"/>
-  <img src="https://img.shields.io/github/issues-pr-closed/sandip2224/Static_Price_Tracker_Bot"/>
-  <img src="https://img.shields.io/github/repo-size/sandip2224/Static_Price_Tracker_Bot"/>
+  <img src="https://img.shields.io/github/forks/sandip2224/My-README.md-Template"/>
+  <img src="https://img.shields.io/github/stars/sandip2224/My-README.md-Template"/>
+  <img src="https://img.shields.io/github/issues-pr-closed/sandip2224/My-README.md-Template"/>
+  <img src="https://img.shields.io/github/repo-size/sandip2224/My-README.md-Template"/>
+</p>
+<p align="center">
+  <a href="https://github.com/sandip2224/My-README.md-Template"><strong>Explore the docs »</strong></a>
 </p>
 
 <!-- PROJECT LOGO -->
@@ -18,53 +25,106 @@
   </p>
 </p>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <h2 align="center">Table of Contents</h2>
 
 - [About the Project](#about-the-project)
   - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
 - [Contributing](#contributing)
+- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
 
+
 <!-- ABOUT THE PROJECT -->
+
 <h2 align="center">About the Project</h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id eleifend lacus, sed blandit lorem. Nullam aliquet dictum elementum. Nunc egestas tristique accumsan. Duis eleifend dignissim faucibus. Nam eget leo ut urna fringilla finibus. Suspendisse massa tellus, consectetur ac ornare in, tempus sed ante. Nullam et libero sodales, semper eros a, ullamcorper magna. Etiam eget elementum tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+<p align="center"><img src="img/grid_image.png" height=400 width=900/></p>
 
-Here's why it's so awesome:
-* Ut efficitur sagittis sapien at vestibulum. 
-* Cras aliquam magna et velit pretium rutrum. Donec rhoncus mauris risus.
-* Etiam feugiat nisl facilisis eros consectetur, in vulputate sapien tempor. 
+There are a lot of README templates out there on GitHub, but however, most of them didn't align with my needs and so I created this personalized one. My intention was to create  README.md template that you'll be able to use in most of your repositories with minimal modifications.  
 
-**You may also suggest changes by forking this repo and creating a pull request or opening an issue.**
+
+Here's why it's so awesome:  
+
+* You should focus on creating something amazing instead of worrying about a README.md that you might need to build from scratch.😁  
+* It's a template repository, so essentially you can just generate a README.md for your repository without problems.✅  
+* You shouldn't repeat the process of building a README.md again and again from scratch because you're awesome.🖖  
+
+**Of course I encourage you to make modifications to the README.md to suit your own projects but that's what its supposed to be all about. You may also suggest changes by forking this repository and creating a pull request or opening an issue.**  
+
+A list of commonly used resources that I find helpful are listed in the acknowledgements.  
+
+
+
+<!-- BUILT WITH -->  
 
 <h2 align="center">Built With</h2>
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.  
+This section should list any major frameworks that you built your project using either as `text` or as `badges`. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.  
 
-* [Python](https://getbootstrap.com)
-* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+<p align="center">
+   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+</p>  
+
 
 <!-- GETTING STARTED -->
+
 <h2 align="center">Getting Started</h2>
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps as mentioned based on your project.  
+
+
+<!-- PREREQUISITES -->
+
+<h2 align="center">Prerequisites</h2>
+
+This is an example of how to list things you need to set up the project and get it running:  
+
+- [x] HTML 5  
+- [x] Express.js
+- [x] EJS Templates  
+
+
+<!-- INSTALLATION -->
+<h2 align="center">Installation</h2>
 
 1. Fork and clone this repository using  
 
 ```
-  git clone https://github.com/sandipan_2224/REPOSITORY_NAME.git
-  cd REPOSITORY_NAME  
+  git clone https://github.com/sandipan_2224/My-README.md-Template.git
+  cd My-README.md-Template 
 ```  
 
 2. Add required steps to get the project up and running.  
 
-```
-  Code snippets based on project description
-```
+
+<!-- USAGE -->
+
+<h2 align="center">Usage</h2>
+
+Use this space to showcase useful real-world applications of your project. Additional screenshots, code examples and demos work perfectly fine in this space. You may add more resources links in this section.
+
+_For more examples, please refer to the [Documentation](https://example.com)_  
+
+
+
+<!-- LICENSE -->  
+
+<h2 align="center">License</h2>
+
+Distributed under the MIT License. See `LICENSE` for more information.  
+
+
 
 <!-- CONTRIBUTING -->
 <h2 align="center">Contributing</h2>
@@ -75,10 +135,24 @@ Contributions are what make the open source community such an amazing place to b
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+5. Open a Pull Request  
+
+
+<!-- CONTACT --> 
+
+<h2 align="center">Contact</h2>
+
+- **Name:** [Sandipan Das](https://linkedin.com/in/sandipan0164)  
+- **Email ID:** [sandipan2224@gmail.com](sandipan2224@gmail.com)  
+
+
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
+
+<h2 align="center">Acknowledgements</h2>
+
+* [GitHub Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+
+<h3 align="right">Built and designed by <em>Sandipan Das</em></h3>
