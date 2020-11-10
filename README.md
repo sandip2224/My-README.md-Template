@@ -23,12 +23,12 @@
     ·
     <a href="https://github.com/sandipan_2224/REPOSITORY_NAME/issues">Request Feature</a>
   </p>
-</p>
 
 <!-- TABLE OF CONTENTS -->
 <h2 align="center">Table of Contents</h2>
 
 - [About the Project](#about-the-project)
+   - [Preview](#preview)
   - [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -45,7 +45,6 @@
 
 <h2 align="center">About the Project</h2>
 
-<p align="center"><img src="img/grid_image.png" height=400 width=900/></p>
 
 There are a lot of README templates out there on GitHub, but however, most of them didn't align with my needs and so I created this personalized one. My intention was to create  README.md template that you'll be able to use in most of your repositories with minimal modifications.  
 
@@ -60,6 +59,10 @@ Here's why it's so awesome:
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.  
 
+<!-- Preview -->
+<h2 align="center">Preview</h2>
+
+<p align="center"><img src="img/grid_image.png" height=400 width=800/></p>
 
 
 <!-- BUILT WITH -->  
