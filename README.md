@@ -3,12 +3,18 @@
 <p align="center">
    <img src="img/doc_logo.png" alt="Logo" height=100 weight=100/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/github/license/sandip2224/My-README.md-Template"/>
-  <img src="https://img.shields.io/github/forks/sandip2224/My-README.md-Template"/>
-  <img src="https://img.shields.io/github/stars/sandip2224/My-README.md-Template"/>
-  <img src="https://img.shields.io/github/issues-pr-closed/sandip2224/My-README.md-Template"/>
-  <img src="https://img.shields.io/github/repo-size/sandip2224/My-README.md-Template"/>
+
+<p align='center'> 
+   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+   <img src="https://img.shields.io/badge/-By%20Sandipan%20Das-yellow?style=for-the-badge" /><br>
+   <img src="https://img.shields.io/github/issues/sandip2224/My-README.md-Template?style=for-the-badge" />
+   <img src="https://img.shields.io/github/stars/sandip2224/My-README.md-Template?style=for-the-badge" />
+   <img src="https://img.shields.io/github/forks/sandip2224/My-README.md-Template?style=for-the-badge" />
+   <img src="https://img.shields.io/github/contributors/sandip2224/My-README.md-Template?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/License-MIT-orange.svg?style=for-the-badge" /><br>
+   <img src="https://img.shields.io/github/issues-pr/sandip2224/My-README.md-Template?color=purple&style=for-the-badge" />
+   <img src="https://img.shields.io/github/issues-pr-closed-raw/sandip2224/My-README.md-Template?color=purple&style=for-the-badge" /></a><br>
+   <img src="https://img.shields.io/github/repo-size/sandip2224/My-README.md-Template?color=ff69b4&style=for-the-badge" />
 </p>
 <p align="center">
   <a href="https://github.com/sandip2224/My-README.md-Template"><strong>Explore the docs »</strong></a>
