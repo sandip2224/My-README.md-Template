@@ -14,7 +14,6 @@
    <img src="https://img.shields.io/badge/License-MIT-orange.svg?style=for-the-badge" /><br>
    <img src="https://img.shields.io/github/issues-pr/sandip2224/My-README.md-Template?color=purple&style=for-the-badge" />
    <img src="https://img.shields.io/github/issues-pr-closed-raw/sandip2224/My-README.md-Template?color=purple&style=for-the-badge" /></a><br>
-   <img src="https://img.shields.io/github/repo-size/sandip2224/My-README.md-Template?color=ff69b4&style=for-the-badge" />
 </p>
 <p align="center">
   <a href="https://github.com/sandip2224/My-README.md-Template"><strong>Explore the docs »</strong></a>
