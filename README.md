@@ -5,8 +5,6 @@
 </p>
 
 <p align='center'> 
-   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-   <img src="https://img.shields.io/badge/-By%20Sandipan%20Das-yellow?style=for-the-badge" /><br>
    <img src="https://img.shields.io/github/issues/sandip2224/My-README.md-Template?style=for-the-badge" />
    <img src="https://img.shields.io/github/stars/sandip2224/My-README.md-Template?style=for-the-badge" />
    <img src="https://img.shields.io/github/forks/sandip2224/My-README.md-Template?style=for-the-badge" />
