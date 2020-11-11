@@ -161,4 +161,4 @@ Contributions are what make the open source community such an amazing place to b
 * [GitHub Pages](https://pages.github.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 
-<h3 align="right">Built and designed by <em>Sandipan Das</em></h3>
+<h3 align="right">Built with :heart: by <em>Sandipan Das</em></h3>
