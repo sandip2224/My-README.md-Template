@@ -20,11 +20,11 @@
 <!-- PROJECT LOGO -->
   <p align="center">
     <br />
-    <a href="https://github.com/sandipan_2224/REPOSITORY_NAME">View Demo</a>
+    <a href="https://github.com/sandip2224/REPOSITORY_NAME">View Demo</a>
     ·
-    <a href="https://github.com/sandipan_2224/REPOSITORY_NAME/issues">Report Bug</a>
+    <a href="https://github.com/sandip2224/REPOSITORY_NAME/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sandipan_2224/REPOSITORY_NAME/issues">Request Feature</a>
+    <a href="https://github.com/sandip2224/REPOSITORY_NAME/issues">Request Feature</a>
   </p>
 
 <!-- TABLE OF CONTENTS -->
