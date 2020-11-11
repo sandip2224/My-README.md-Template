@@ -54,9 +54,9 @@ There are a lot of README templates out there on GitHub, but however, most of th
 
 Here's why it's so awesome:  
 
-* You should focus on creating something amazing instead of worrying about a README.md that you might need to build from scratch.😁  
-* It's a template repository, so essentially you can just generate a README.md for your repository without problems.✅  
-* You shouldn't repeat the process of building a README.md again and again from scratch because you're awesome.🖖  
+- ***You should focus on creating something amazing instead of worrying about a README.md that you might need to build from scratch.*** 😁  
+- ***It's a template repository, so essentially you can just generate a README.md for your repository without problems.*** ✅  
+- ***You shouldn't repeat the process of building a README.md again and again from scratch because you're awesome.*** 🖖  
 
 **Of course I encourage you to make modifications to the README.md to suit your own projects but that's what its supposed to be all about. You may also suggest changes by forking this repository and creating a pull request or opening an issue.**  
 
