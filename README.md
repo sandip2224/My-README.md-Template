@@ -3,12 +3,15 @@
 <p align="center">
    <img src="img/doc_logo.png" alt="Logo" height=100 weight=100/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/github/license/sandip2224/My-README.md-Template"/>
-  <img src="https://img.shields.io/github/forks/sandip2224/My-README.md-Template"/>
-  <img src="https://img.shields.io/github/stars/sandip2224/My-README.md-Template"/>
-  <img src="https://img.shields.io/github/issues-pr-closed/sandip2224/My-README.md-Template"/>
-  <img src="https://img.shields.io/github/repo-size/sandip2224/My-README.md-Template"/>
+
+<p align='center'> 
+   <img src="https://img.shields.io/github/issues/sandip2224/My-README.md-Template?style=for-the-badge" />
+   <img src="https://img.shields.io/github/stars/sandip2224/My-README.md-Template?style=for-the-badge" />
+   <img src="https://img.shields.io/github/forks/sandip2224/My-README.md-Template?style=for-the-badge" />
+   <img src="https://img.shields.io/github/contributors/sandip2224/My-README.md-Template?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/License-MIT-orange.svg?style=for-the-badge" /><br>
+   <img src="https://img.shields.io/github/issues-pr/sandip2224/My-README.md-Template?color=purple&style=for-the-badge" />
+   <img src="https://img.shields.io/github/issues-pr-closed-raw/sandip2224/My-README.md-Template?color=purple&style=for-the-badge" /></a><br>
 </p>
 <p align="center">
   <a href="https://github.com/sandip2224/My-README.md-Template"><strong>Explore the docs »</strong></a>
@@ -17,18 +20,18 @@
 <!-- PROJECT LOGO -->
   <p align="center">
     <br />
-    <a href="https://github.com/sandipan_2224/REPOSITORY_NAME">View Demo</a>
+    <a href="https://github.com/sandip2224/REPOSITORY_NAME">View Demo</a>
     ·
-    <a href="https://github.com/sandipan_2224/REPOSITORY_NAME/issues">Report Bug</a>
+    <a href="https://github.com/sandip2224/REPOSITORY_NAME/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sandipan_2224/REPOSITORY_NAME/issues">Request Feature</a>
+    <a href="https://github.com/sandip2224/REPOSITORY_NAME/issues">Request Feature</a>
   </p>
-</p>
 
 <!-- TABLE OF CONTENTS -->
 <h2 align="center">Table of Contents</h2>
 
 - [About the Project](#about-the-project)
+   - [Preview](#preview)
   - [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -45,21 +48,24 @@
 
 <h2 align="center">About the Project</h2>
 
-<p align="center"><img src="img/grid_image.png" height=400 width=900/></p>
 
 There are a lot of README templates out there on GitHub, but however, most of them didn't align with my needs and so I created this personalized one. My intention was to create  README.md template that you'll be able to use in most of your repositories with minimal modifications.  
 
 
 Here's why it's so awesome:  
 
-* You should focus on creating something amazing instead of worrying about a README.md that you might need to build from scratch.😁  
-* It's a template repository, so essentially you can just generate a README.md for your repository without problems.✅  
-* You shouldn't repeat the process of building a README.md again and again from scratch because you're awesome.🖖  
+- ***You should focus on creating something amazing instead of worrying about a README.md that you might need to build from scratch.*** 😁  
+- ***It's a template repository, so essentially you can just generate a README.md for your repository without problems.*** ✅  
+- ***You shouldn't repeat the process of building a README.md again and again from scratch because you're awesome.*** 🖖  
 
 **Of course I encourage you to make modifications to the README.md to suit your own projects but that's what its supposed to be all about. You may also suggest changes by forking this repository and creating a pull request or opening an issue.**  
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.  
 
+<!-- Preview -->
+<h2 align="center">Preview</h2>
+
+<p align="center"><img src="img/grid_image.png" height=400 width=800/></p>
 
 
 <!-- BUILT WITH -->  
@@ -142,8 +148,8 @@ Contributions are what make the open source community such an amazing place to b
 
 <h2 align="center">Contact</h2>
 
-- **Name:** [Sandipan Das](https://linkedin.com/in/sandipan0164)  
-- **Email ID:** [sandipan2224@gmail.com](sandipan2224@gmail.com)  
+- **Hey guys, I'm Sandipan. Find out more about me** [ here](https://linkedin.com/in/sandipan0164)  
+- **Reach out to me at** [ sandipan2224@gmail.com](sandipan2224@gmail.com)  
 
 
 
@@ -155,4 +161,4 @@ Contributions are what make the open source community such an amazing place to b
 * [GitHub Pages](https://pages.github.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 
-<h3 align="right">Built and designed by <em>Sandipan Das</em></h3>
+<h3 align="right">Built with :heart: by <em>Sandipan Das</em></h3>
