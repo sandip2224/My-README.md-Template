@@ -20,18 +20,18 @@
 <!-- PROJECT LOGO -->
   <p align="center">
     <br />
-    <a href="https://github.com/sandip2224/REPOSITORY_NAME">View Demo</a>
+    <a href="https://github.com/sandip2224/My-README.md-Template">View Demo</a>
     ·
-    <a href="https://github.com/sandip2224/REPOSITORY_NAME/issues">Report Bug</a>
+    <a href="https://github.com/sandip2224/My-README.md-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sandip2224/REPOSITORY_NAME/issues">Request Feature</a>
+    <a href="https://github.com/sandip2224/My-README.md-Template/issues">Request Feature</a>
   </p>
 
 <!-- TABLE OF CONTENTS -->
 <h2 align="center">Table of Contents</h2>
 
 - [About the Project](#about-the-project)
-   - [Preview](#preview)
+  - [Preview](#preview)
   - [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -58,9 +58,7 @@ Here's why it's so awesome:
 - ***It's a template repository, so essentially you can just generate a README.md for your repository without problems.*** ✅  
 - ***You shouldn't repeat the process of building a README.md again and again from scratch because you're awesome.*** 🖖  
 
-**Of course I encourage you to make modifications to the README.md to suit your own projects but that's what its supposed to be all about. You may also suggest changes by forking this repository and creating a pull request or opening an issue.**  
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.  
+> Of course I encourage you to make modifications to the README.md to suit your own projects but that's what its supposed to be all about. You may also suggest changes by forking this repository and creating a pull request or opening an issue.  
 
 <!-- Preview -->
 <h2 align="center">Preview</h2>
@@ -157,8 +155,8 @@ Contributions are what make the open source community such an amazing place to b
 
 <h2 align="center">Acknowledgements</h2>
 
-* [GitHub Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [HTML docs](https://www.w3schools.com/html/)
+* [CSS docs](https://www.w3schools.com/css/default.asp)
+* [JavaScript basics](https://www.w3schools.com/js/default.asp)
 
 <h3 align="right">Built with :heart: by <em>Sandipan Das</em></h3>
