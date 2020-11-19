@@ -1,4 +1,4 @@
-<h2 align="center">My-README.md-Template✅</h2>
+<h2 align="center">My-README.md-Template</h2>
 
 <p align="center">
    <img src="img/doc_logo.png" alt="Logo" height=100 weight=100/>
