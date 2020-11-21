@@ -60,6 +60,7 @@ Here's why it's so awesome:
 
 > Of course I encourage you to make modifications to the README.md to suit your own projects but that's what its supposed to be all about. You may also suggest changes by forking this repository and creating a pull request or opening an issue.  
 
+<p align="right"><a href="#table-of-contents">🔼 Back to top</a></p>
 <!-- Preview -->
 <h2 align="center">Preview</h2>
 
@@ -98,7 +99,7 @@ This is an example of how to list things you need to set up the project and get 
 - [x] Express.js
 - [x] EJS Templates  
 
-
+<p align="right"><a href="#table-of-contents">🔼 Back to top</a></p>
 <!-- INSTALLATION -->
 <h2 align="center">Installation</h2>
 
@@ -120,14 +121,12 @@ Use this space to showcase useful real-world applications of your project. Addit
 
 _For more examples, please refer to the [Documentation](https://example.com)_  
 
-
-
+<p align="right"><a href="#table-of-contents">🔼 Back to top</a></p>
 <!-- LICENSE -->  
 
 <h2 align="center">License</h2>
 
 Distributed under the MIT License. See `LICENSE` for more information.  
-
 
 
 <!-- CONTRIBUTING -->
@@ -141,15 +140,13 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request  
 
-
+<p align="right"><a href="#table-of-contents">🔼 Back to top</a></p>
 <!-- CONTACT --> 
 
 <h2 align="center">Contact</h2>
 
 - **Hey guys, I'm Sandipan. Find out more about me** [ here](https://linkedin.com/in/sandipan0164)  
 - **Reach out to me at** [ sandipan2224@gmail.com](sandipan2224@gmail.com)  
-
-
 
 <!-- ACKNOWLEDGEMENTS -->
 
