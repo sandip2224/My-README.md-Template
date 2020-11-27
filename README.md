@@ -31,11 +31,12 @@
 <h2 align="center">Table of Contents</h2>
 
 - [About the Project](#about-the-project)
-  - [Preview](#preview)
-  - [Built With](#built-with)
+   - [Preview](#preview)
+   - [Built With](#built-with)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+   - [Core Folder Structure](#folder-structure)
+   - [Prerequisites](#prerequisites)
+   - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
@@ -88,6 +89,16 @@ This section should list any major frameworks that you built your project using 
 
 To get a local copy up and running follow these simple example steps as mentioned based on your project.  
 
+<!-- FOLDER STRUCTURE -->
+<h2 align="center">Folder Structure</h2>
+
+```
+   ├── img                     # Image files for README.md
+   |
+   ├── LICENSE                 # MIT License
+   |
+   └── README.md               # README.md file
+```
 
 <!-- PREREQUISITES -->
 
