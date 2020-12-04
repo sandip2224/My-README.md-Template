@@ -160,7 +160,8 @@ Contributions are what make the open source community such an amazing place to b
 
 <h2 align="center">Acknowledgements</h2>
 
-### &#8627; Stargazers
-[![Stargazers repo roster for @sandip2224/My-README.md-Template](https://reporoster.com/stars/sandip2224/My-README.md-Template)](https://github.com/nastyox/y-README.md-Template/stargazers)
+<p> &#8627; Stargazers</p>
+
+[![Stargazers repo roster for @sandip2224/My-README.md-Template](https://reporoster.com/stars/sandip2224/My-README.md-Template)](https://github.com/sandip2224/My-README.md-Template/stargazers)
 
 <h3 align="right">Built with :heart: by <a href="https://linkedin.com/in/sandipan0164">Sandipan Das</a></h3>
