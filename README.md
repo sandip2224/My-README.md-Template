@@ -65,7 +65,7 @@ Here's why it's so awesome:
 <!-- Preview -->
 <h2 align="center">Preview</h2>
 
-<p align="center"><img src="img/grid_image.png" height=400 width=800/></p>
+<p align="center"><img src="img/grid_image1.png" height=400 width=800/></p>
 
 
 <!-- BUILT WITH -->  
