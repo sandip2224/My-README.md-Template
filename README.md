@@ -1,7 +1,7 @@
-<h2 align="center">My-README.md-Template</h2>
+<h2 align="center">Project Title</h2>
 
 <p align="center">
-   <img src="img/doc_logo.png" alt="Logo" height=100 weight=100/>
+   <img src="img/doc_logo.png" alt="Logo" height=95 width=95/>
 </p>
 
 <p align='center'> 
@@ -16,7 +16,6 @@
 <p align="center">
   <a href="https://github.com/sandip2224/My-README.md-Template"><strong>Explore the docs »</strong></a>
 </p>
-
 <!-- PROJECT LOGO -->
   <p align="center">
     <br />
@@ -31,11 +30,10 @@
 <h2 align="center">Table of Contents</h2>
 
 - [About the Project](#about-the-project)
-   - [Preview](#preview)
+   - [Project Preview](#project-preview)
    - [Built With](#built-with)
 - [Getting Started](#getting-started)
    - [Core Folder Structure](#folder-structure)
-   - [Prerequisites](#prerequisites)
    - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -43,15 +41,11 @@
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
-
-
 <!-- ABOUT THE PROJECT -->
 
 <h2 align="center">About the Project</h2>
 
-
-There are a lot of README templates out there on GitHub, but however, most of them didn't align with my needs and so I created this personalized one. My intention was to create  README.md template that you'll be able to use in most of your repositories with minimal modifications.  
-
+> There are a lot of README templates out there on GitHub, but however, most of them didn't align with my needs and so I created this personalized one. My intention was to create  README.md template that you'll be able to use in most of your repositories with minimal modifications.  
 
 Here's why it's so awesome:  
 
@@ -59,20 +53,16 @@ Here's why it's so awesome:
 - ***It's a template repository, so essentially you can just generate a README.md for your repository without problems.*** ✅  
 - ***You shouldn't repeat the process of building a README.md again and again from scratch because you're awesome.*** 🖖  
 
-> Of course I encourage you to make modifications to the README.md to suit your own projects but that's what its supposed to be all about. You may also suggest changes by forking this repository and creating a pull request or opening an issue.  
-
-<p align="right"><a href="#table-of-contents">🔼 Back to top</a></p>
 <!-- Preview -->
-<h2 align="center">Preview</h2>
+<h2 align="center">Project Preview</h2>
 
-<p align="center"><img src="img/grid_image1.png" height=400 width=800/></p>
-
+<p align="center"><img src="img/grid_image1.png" height=300 width=700/></p>
 
 <!-- BUILT WITH -->  
 
 <h2 align="center">Built With</h2>
 
-This section should list any major frameworks that you built your project using either as `text` or as `badges`. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.  
+> This section should list any major frameworks that you built your project using either as `text` or as `badges`. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.  
 
 <p align="center">
    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -98,17 +88,6 @@ To get a local copy up and running follow these simple example steps as mentione
    └── README.md               # README.md file
 ```
 
-<!-- PREREQUISITES -->
-
-<h2 align="center">Prerequisites</h2>
-
-This is an example of how to list things you need to set up the project and get it running:  
-
-- [x] HTML 5  
-- [x] Express.js
-- [x] EJS Templates  
-
-<p align="right"><a href="#table-of-contents">🔼 Back to top</a></p>
 <!-- INSTALLATION -->
 <h2 align="center">Installation</h2>
 
@@ -121,14 +100,13 @@ This is an example of how to list things you need to set up the project and get 
 
 2. Add required steps to get the project up and running.  
 
-
 <!-- USAGE -->
 
 <h2 align="center">Usage</h2>
 
-Use this space to showcase useful real-world applications of your project. Additional screenshots, code examples and demos work perfectly fine in this space. You may add more resources links in this section.
+> Use this space to showcase useful real-world applications of your project. Additional screenshots, code examples and demos work perfectly fine in this space. You may add more resources links in this section.
 
-_For more examples, please refer to the [Documentation](https://example.com)_  
+> _For more examples, please refer to the [Documentation](https://example.com)_  
 
 <p align="right"><a href="#table-of-contents">🔼 Back to top</a></p>
 <!-- LICENSE -->  
@@ -136,7 +114,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <h2 align="center">License</h2>
 
 Distributed under the MIT License. See `LICENSE` for more information.  
-
 
 <!-- CONTRIBUTING -->
 <h2 align="center">Contributing</h2>
@@ -149,7 +126,6 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request  
 
-<p align="right"><a href="#table-of-contents">🔼 Back to top</a></p>
 <!-- CONTACT --> 
 
 <h2 align="center">Contact</h2>
@@ -165,3 +141,4 @@ Contributions are what make the open source community such an amazing place to b
 [![Stargazers repo roster for @sandip2224/My-README.md-Template](https://reporoster.com/stars/sandip2224/My-README.md-Template)](https://github.com/sandip2224/My-README.md-Template/stargazers)
 
 <h3 align="right">Built with :heart: by <a href="https://linkedin.com/in/sandipan0164">Sandipan Das</a></h3>
+<p align="right"><a href="#table-of-contents">🔼 Back to top</a></p>
