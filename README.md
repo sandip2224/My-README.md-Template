@@ -3,16 +3,6 @@
 <p align="center">
    <img src="img/doc_logo.png" alt="Logo" height=95 width=95/>
 </p>
-
-<p align='center'> 
-   <img src="https://img.shields.io/github/issues/sandip2224/My-README.md-Template?style=for-the-badge" />
-   <img src="https://img.shields.io/github/stars/sandip2224/My-README.md-Template?style=for-the-badge" />
-   <img src="https://img.shields.io/github/forks/sandip2224/My-README.md-Template?style=for-the-badge" />
-   <img src="https://img.shields.io/github/contributors/sandip2224/My-README.md-Template?style=for-the-badge" />
-   <img src="https://img.shields.io/badge/License-MIT-orange.svg?style=for-the-badge" /><br>
-   <img src="https://img.shields.io/github/issues-pr/sandip2224/My-README.md-Template?color=purple&style=for-the-badge" />
-   <img src="https://img.shields.io/github/issues-pr-closed-raw/sandip2224/My-README.md-Template?color=purple&style=for-the-badge" /></a><br>
-</p>
 <p align="center">
   <a href="https://github.com/sandip2224/My-README.md-Template"><strong>Explore the docs »</strong></a>
 </p>
@@ -72,22 +62,6 @@ Here's why it's so awesome:
    <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>  
 
-
-<!-- GETTING STARTED -->
-
-<h2 align="center">Getting Started</h2>
-
-To get a local copy up and running follow these simple example steps as mentioned based on your project.  
-
-<!-- FOLDER STRUCTURE -->
-<h2 align="center">Folder Structure</h2>
-
-```
-   ├── img                     # Image files for README.md
-   ├── LICENSE                 # MIT License
-   └── README.md               # README.md file
-```
-
 <!-- INSTALLATION -->
 <h2 align="center">Installation</h2>
 
@@ -100,15 +74,6 @@ To get a local copy up and running follow these simple example steps as mentione
 
 2. Add required steps to get the project up and running.  
 
-<!-- USAGE -->
-
-<h2 align="center">Usage</h2>
-
-> Use this space to showcase useful real-world applications of your project. Additional screenshots, code examples and demos work perfectly fine in this space. You may add more resources links in this section.
-
-> _For more examples, please refer to the [Documentation](https://example.com)_  
-
-<p align="right"><a href="#table-of-contents">🔼 Back to top</a></p>
 <!-- LICENSE -->  
 
 <h2 align="center">License</h2>
@@ -132,13 +97,4 @@ Contributions are what make the open source community such an amazing place to b
 
 - **Reach out to me at** [ sandipan2224@gmail.com](sandipan2224@gmail.com)  
 
-<!-- ACKNOWLEDGEMENTS -->
-
-<h2 align="center">Acknowledgements</h2>
-
-<p> &#8627; Stargazers</p>
-
-[![Stargazers repo roster for @sandip2224/My-README.md-Template](https://reporoster.com/stars/sandip2224/My-README.md-Template)](https://github.com/sandip2224/My-README.md-Template/stargazers)
-
-<h3 align="right">Built with :heart: by <a href="https://linkedin.com/in/sandipan0164">Sandipan Das</a></h3>
 <p align="right"><a href="#table-of-contents">🔼 Back to top</a></p>
