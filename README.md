@@ -5,7 +5,6 @@
 </p>
 <!-- PROJECT LOGO -->
   <p align="center">
-    <br />
     <a href="https://github.com/sandip2224/My-README.md-Template">View Demo</a>
     ·
     <a href="https://github.com/sandip2224/My-README.md-Template/issues">Report Bug</a>
