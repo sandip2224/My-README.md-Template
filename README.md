@@ -1,83 +1,72 @@
-<h2 align="center">&lt;Project Title&gt;</h2>
+# Project Title
 
 <p align="center">
    <img src="img/doc_logo.png" alt="Logo" height=95 width=95/>
 </p>
 <!-- PROJECT LOGO -->
-  <p align="center">
-    <a href="https://github.com/sandip2224/My-README.md-Template">View Demo</a>
-    ·
-    <a href="https://github.com/sandip2224/My-README.md-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/sandip2224/My-README.md-Template/issues">Request Feature</a>
-  </p>
 
-<!-- TABLE OF CONTENTS -->
-<h2 align="center">Table of Contents</h2>
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-- [About the Project](#about-the-project)
-   - [Project Preview](#project-preview)
-   - [Built With](#built-with)
-- [Installation](#installation)
-- [License](#license)
-- [Contributing](#contributing)
-- [Contact](#contact)
 <!-- ABOUT THE PROJECT -->
+## Built With
 
-<h2 align="center">About the Project</h2>
+<p align="left">
+   <img alt="HTML5" src="https://img.shields.io/badge/html%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=%23F7DF1E"/>
+   <img alt="CSS3" src="https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=%23F7DF1E"/>
+   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+   <img alt="Node.js" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=mongo&logoColor=%2361DAFB"/>
+</p>  
 
-> There are a lot of README templates out there on GitHub, but however, most of them didn't align with my needs and so I created this personalized one. My intention was to create  README.md template that you'll be able to use in most of your repositories with minimal modifications.  
+> You can add your OWN markdown badges corresponding to the tech stack used in YOUR project.
 
-Here's why it's so awesome:  
+---
 
-- ***You should focus on creating something amazing instead of worrying about a README.md that you might need to build from scratch.*** 😁  
-- ***It's a template repository, so essentially you can just generate a README.md for your repository without problems.*** ✅  
-- ***You shouldn't repeat the process of building a README.md again and again from scratch because you're awesome.*** 🖖  
+## 🔥 Screenshots
 
-<!-- Preview -->
-<h2 align="center">Project Preview</h2>
-
-<p align="center"><img src="img/grid_image1.png" height=300 width=700/></p>
+| Mockup-1 |
+| - |
+| ![img/grid_image1.png](img/grid_image1.png) |
 
 <!-- BUILT WITH -->  
 
-<h2 align="center">Built With</h2>
+## How to Install Locally
 
-> This section should list any major frameworks that you built your project using either as `text` or as `badges`. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.  
+**1. Fork and clone this repository using**
 
-<p align="center">
-   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-</p>  
+   ```
+   git clone https://github.com/sandip2224/<Repository_Name>.git
+   cd <Repository_Name>/
+   ```  
 
-<!-- INSTALLATION -->
-<h2 align="center">Installation</h2>
+> Add necessary steps to get your project up and running locally  
 
-1. Fork and clone this repository using  
+**2.**  
 
-```
-  git clone https://github.com/sandipan_2224/My-README.md-Template.git
-  cd My-README.md-Template 
-```  
+**3.**  
 
-2. Add required steps to get the project up and running.  
+**4.**
 
-<!-- LICENSE -->  
+---
 
-<h2 align="center">License</h2>
+## License
 
-Distributed under the MIT License. See `LICENSE` for more information.  
+Distributed under the _NAME_ License. See `LICENSE` for more information.  
 
-<!-- CONTRIBUTING -->
-<h2 align="center">Contributing</h2>
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+## Contributing
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request  
+If you'd like to contribute, please **fork** the repository and then raise a PR with necessary changes. Thank you.
+
+---
+
+## 🤎 Found this project interesting?
+
+If you found this project useful, then please consider leaving a :star: on Github
+and sharing it with your friends via social media.
+
+---
+
+## :man: Project Created & Maintained By-
+  - [Your Name](<YOUR_SOCIAL_MEDIA_URL>)
