@@ -61,12 +61,6 @@ If you'd like to contribute, please **fork** the repository and then raise a PR 
 
 ---
 
-## 🤎 Found this project interesting?
+## Found this project interesting?
 
 If you found this project useful, then please consider leaving a :star: on Github
-and sharing it with your friends via social media.
-
----
-
-## :man: Project Created & Maintained By-
-  - [Your Name](<YOUR_SOCIAL_MEDIA_URL>)
